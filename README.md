@@ -1,0 +1,2 @@
+# SodukoSolver
+Solves Soduko puzzles 
